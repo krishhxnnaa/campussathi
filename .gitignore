@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.db
+uploads/*
+!uploads/.gitkeep
+dist_frontend/
+.firebase/
